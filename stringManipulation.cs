@@ -8,3 +8,6 @@ class stringManipulation{
         Console.WriteLine(unitSoldBy + " sold " + (unitSold + 9) + " units.");
     }
 }
+// abc sold 9 units.
+// abc sold 99 units.
+// abc sold 18 units.
